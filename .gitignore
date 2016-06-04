@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Vim
+*.swp
+
+# environment variables
+.env
